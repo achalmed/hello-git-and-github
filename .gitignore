@@ -1,3 +1,14 @@
 **/.DS_Store
 **/.idea
 **/.vscode
+**/.history
+**/.env
+**/node_modules
+**/dist
+**/build
+**/coverage
+**/logs
+**/tmp
+**/yarn-error.log
+**/npm-debug.log
+**/package-lock.json
